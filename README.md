@@ -16,7 +16,7 @@ Tools	"Arduino IDE
 Visual Studio (Web Portal)
  "
 
-#Output images
+# Output images
 ![Smart Trolly](https://github.com/alhussain-shaikh/Go-Kart/assets/116242196/a1ea629d-f29d-4979-96bc-fbef4c1cc518)
 ![Trolly](https://github.com/alhussain-shaikh/Go-Kart/assets/116242196/59e34450-c0bd-4fc7-bc17-a09bba4473cd)
 
